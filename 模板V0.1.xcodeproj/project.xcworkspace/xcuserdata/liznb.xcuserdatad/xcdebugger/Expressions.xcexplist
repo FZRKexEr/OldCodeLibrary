@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "SPFA::BFS(int, int):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "d">
+            </PersistentString>
+            <PersistentString
+               value = "d[v]">
+            </PersistentString>
+            <PersistentString
+               value = "d[n]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
